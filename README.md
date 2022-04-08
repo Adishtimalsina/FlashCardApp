@@ -1,3 +1,25 @@
+## Lab 4
+
+### App Description
+User can see luncher icon for the flash card app, different animations, when user click next or previous button the question will move to left and right with slide animation. when user add question the main ativity goes to the left and add card activity comes in from the right.
+
+### App Walk-though
+![CodePath  lab 4](https://user-images.githubusercontent.com/97929111/162520135-aebc157f-8a4d-4c0b-9210-ae3da560bffb.gif)
+
+https://imgur.com/EkcGpyF
+
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [x] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
 ## Lab 3
 
 ### App Description
